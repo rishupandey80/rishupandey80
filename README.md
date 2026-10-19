@@ -87,7 +87,7 @@ Analyzed vendor and sales data through data cleaning, exploratory data analysis,
 
 **Tech Stack:** Python, Pandas, SQL, Data Visualization
 
-**Repository:** Coming soon
+**Repository:** [View Project](https://github.com/rishupandey80/Business-performance-analysis)
 
 </td>
 <td width="50%" valign="top">
