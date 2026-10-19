@@ -81,7 +81,7 @@ My interests include exploratory data analysis, business intelligence, dashboard
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Vendor Performance Analysis
+### 📊 Business Performance Analysis
 
 Analyzed vendor and sales data through data cleaning, exploratory data analysis, and statistical techniques to explore vendor performance and potential business opportunities.
 
