@@ -111,7 +111,7 @@ Developed a Tableau dashboard to analyze total, fatal, serious, and slight casua
 
 **Tech Stack:** Tableau, Data Visualization
 
-**Repository:** [View Project](https://github.com/rishupandey80/road-accident-analysis-dashboard)
+**Repository:** [View Project](https://github.com/rishupandey80/road-accident-dashboard)
 
 </td>
 <td width="50%" valign="top">
