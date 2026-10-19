@@ -98,7 +98,7 @@ Explored banking business data to investigate performance indicators and generat
 
 **Tech Stack:** Python, SQL, Power BI
 
-**Repository:** Coming soon
+**Repository:** [View Project](https://github.com/rishupandey80/Banking-business-analysis)
 
 </td>
 </tr>
@@ -122,7 +122,7 @@ Analyzed authentication logs and login patterns to investigate potentially suspi
 
 **Tech Stack:** Python, SQL, Apache Spark, Scala, Power BI, Machine Learning
 
-**Repository:** Coming soon
+**Repository:**[View project]( https://github.com/rishupandey80/parichay-authentication-log-analysis)
 
 </td>
 </tr>
